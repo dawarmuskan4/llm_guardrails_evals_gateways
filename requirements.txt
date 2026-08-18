@@ -1,5 +1,12 @@
 ipykernel
-python_dotenv
+python-dotenv
+
 langchain
 langchain-openai
 langchain-groq
+langchain-community
+langchain-text-splitters
+
+beautifulsoup4
+lxml
+tiktoken
