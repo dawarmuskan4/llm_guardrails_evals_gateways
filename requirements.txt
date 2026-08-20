@@ -10,3 +10,5 @@ langchain-text-splitters
 beautifulsoup4
 lxml
 tiktoken
+
+litellm 
